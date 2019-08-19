@@ -136,3 +136,25 @@ hr {
 .image-container:hover .content-image:not(:hover) {
   transform: scale(0.95);
 }
+
+/* TEAMS SECTION */
+
+#teams{
+  padding: 3% 10%;
+  text-align: center;
+}
+
+.team-image {
+  border-radius: 100%;
+  width: 65%;
+  margin:5% auto;
+  box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.4);
+}
+
+.card {
+  border: 2px solid #cba1d2;
+}
+
+.footer-text {
+  color: black;
+}
